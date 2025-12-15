@@ -20,6 +20,7 @@ public class Exercicio_3 {
     } else {
         System.out.println("Não são multiplos.");
     }
+    ler.close();
 }
 }
 
